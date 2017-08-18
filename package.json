@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NoctalIvan/testivanheroku/issues"
   },
-  "homepage": "https://github.com/NoctalIvan/testivanheroku#readme"
+  "homepage": "https://github.com/NoctalIvan/testivanheroku#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
